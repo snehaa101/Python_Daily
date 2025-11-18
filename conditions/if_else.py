@@ -14,28 +14,35 @@
 # ***EXAMPLES***
 
 ## VOTING AGE
-a=int(input("Enter your age : "))
-print ("Your age is ",a)
+# a=int(input("Enter your age : "))
+# print ("Your age is ",a)
 
-   # conditional operator [==,<,>,<=,>=.!=]
-if (a>=18):
-    print(" You can drive")
-else:
-    print("You cannot drive")
+#    # conditional operator [==,<,>,<=,>=.!=]
+# if (a>=18):
+#     print(" You can drive")
+# else:
+#     print("You cannot drive")
 
-#--------------------------------------------
-## LARGEST NUMBER
-b=int(input("Enter first number :"))
-c=int(input("Enter second number :"))
+# #--------------------------------------------
+# ## LARGEST NUMBER
+# b=int(input("Enter first number :"))
+# c=int(input("Enter second number :"))
 
-if (b>c):
-    print(b," is greater")
-else:
-    print(c," is greater")
+# if (b>c):
+#     print(b," is greater")
+# else:
+#     print(c," is greater")
 
 #---------------------------------------------
-## EVEN ODD
-if (b % 2 == 0):
-    print(b," is even.")
+## PRINT LAST DIGIT and IF DIV BY 5
+num = int(input("Enter the number : "))
+
+last_digit= num % 10
+print(f"The last digit of the {num} is {last_digit}")
+
+if last_digit % 5==0 :
+    print(f"{last_digit} is divisible by 5")
 else:
-    print(b," is odd.")
+    print(f"{last_digit} is NOT divisible by 5")
+
+ 
