@@ -1,3 +1,6 @@
+# 🐍 Python_Daily
+   This repository contains my Daily Python Practice from very basics to moving towards advanced concepts as I learn and improve my programming skills.
+
 # 🎯 Goals
   - Build strong Python fundamental
   - Develop daily coding consistency
