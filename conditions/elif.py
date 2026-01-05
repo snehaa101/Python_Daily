@@ -54,4 +54,3 @@ elif percentage>=1 :
     print("Sorry you FAILED")
 else:
     print("INVALID") # percentage > 100
-
