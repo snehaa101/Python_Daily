@@ -50,4 +50,3 @@ i will be happy''')
 #LISTS
 varible= [10,2.5,"yo"]
 print((varible), type(varible))
-
