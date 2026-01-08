@@ -2,7 +2,7 @@
 # b= 'sneha' [single quoted string]
 # c= '''sneha'''[triple quoted string][also multiline string]
 
-name= "sneha"
+name="sneha"
 
 #indexing= variable_name[index_start : index_end] {ending index is always excluded}
 
