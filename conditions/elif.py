@@ -28,7 +28,7 @@
 maths=int(input("enter marks of maths = "))
 english=int(input("enter marks of english = "))
 science=int(input("enter marks of science = "))
-history=int(input("enter marks of history = "))
+history=int (input("enter marks of history = "))
 hindi=int(input("enter marks of hindi = "))
 
 #calculating total marks
