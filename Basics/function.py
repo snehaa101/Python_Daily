@@ -1,6 +1,6 @@
 # "def" - define function KEYWORD
 #NORMAL CODE [to fine gmean]
- #for a,b
+#for a,b
 a=9
 b=81
 # gmean1 = (a*b)/(a+b)
