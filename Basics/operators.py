@@ -50,4 +50,3 @@ print(var,id(var))
 var2=10
 print(var2,id(var2))
 var2=20
-print(var2,id(var2))
