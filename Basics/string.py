@@ -29,5 +29,5 @@ name= name.strip() #remove the white space from input string
 name= name.capitalize()#make the 1st letter captital in case of all small
 print(f"hey!, {name}")
 # INPUT: enter a name :         naman    
-#OUPUT: hey!   klaus  
+#OUPUT: hey!   klaus   
 
