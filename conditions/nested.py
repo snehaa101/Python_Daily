@@ -42,3 +42,7 @@ else:
 ## SAMPLE OUTPUT 2
 #Enter a number : 0
 #Number is 0
+
+## SAMPLE OUTPUT -1
+#Enter a number : 0
+#Number is negative
