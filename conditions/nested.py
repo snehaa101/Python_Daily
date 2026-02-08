@@ -35,7 +35,10 @@ else:
     print('Number is negative')
 
 
-## SAMPLE OUTPUT
-
+## SAMPLE OUTPUT 1
 #Enter a number : 6
 #Number is positive
+
+## SAMPLE OUTPUT 2
+#Enter a number : 0
+#Number is 0
