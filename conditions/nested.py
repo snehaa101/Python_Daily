@@ -36,7 +36,7 @@ else:
 
 
 ## SAMPLE OUTPUT 1
-#Enter a number : 6
+#Enter a number : 1
 #Number is positive
 
 ## SAMPLE OUTPUT 2
