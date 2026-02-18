@@ -1,15 +1,19 @@
-## The Common Input for below questions
+#----------------------------------------------------
+# Topic: Condition Statments
+# Problem: Even Odd Variations
+# ---------------------------------------------------
+
+# ## The Common Input for below questions
 a = int(input("enter the number : "))
 
-# (1) # Accept an integer and check whether it is an EVEN or an ODD number
-
+# Variation-1 (Basic Even and Odd)
 if a%2==0 :
     print (f"{a} is an even number")
 else:
     print (f"{a} is an odd number")
 
-# (2) # Accept an integer and check whether it is an POSITIVE EVEN or ODD number OR an NEGATIVE EVEN ODD
 
+# Variation-1 POSITIVE/NEGATIVE + EVEN/ODD
 if a==0:
     print("0 is an even number but neither positive or negative")
 
