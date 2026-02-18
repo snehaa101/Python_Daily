@@ -3,7 +3,7 @@
 # Problem: Even Odd Variations
 # ---------------------------------------------------
 
-# ## The Common Input for below questions
+## The Common Input for below questions
 a = int(input("enter the number : "))
 
 # Variation-1 (Basic Even and Odd)
