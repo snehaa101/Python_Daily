@@ -13,7 +13,7 @@
 #            --body---
 #   else:
 #       --body---
-
+#---------------------------------------------------------
 # ***EXAMPLES***
 
 ## POSITIVE OR NEGATIVE NUMBER
