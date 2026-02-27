@@ -30,9 +30,9 @@ def calculatinggmean(a,b):
 #function for greater number
 def greaterno(c,d):
      if(c>d):
-      print("first number is greater = ",c)
+          print("first number is greater = ",c)
      else:
-      print("second number is greater = ",d) 
+          print("second number is greater = ",d) 
 
 
 calculatinggmean(a,b)#recalling function for gmean
