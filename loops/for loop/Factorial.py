@@ -1,7 +1,6 @@
 #----------------------------------------------------
 # Topic: PYTHON LOOPS (for loop)
 # Problem: 1.Print factorial of a number.
-#          2.Check if no. is positive or negative and then print it's factorial.
 #---------------------------------------------------
 # Take input from user
 n=int(input("Enter a number:"))
