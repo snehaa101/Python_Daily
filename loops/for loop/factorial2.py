@@ -11,8 +11,7 @@ n=int(input("Enter a number:"))
 fact = 1
 
 # checks if no. is negative
-if n<0:
-    print(f"{n} is a negative number,\n hence factorial is not defined")
+if n<0: print(f"{n} is a negative number,\n hence factorial is not defined")
 
 # checks if no. is 0
 elif n==0:
