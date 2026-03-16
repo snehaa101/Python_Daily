@@ -26,3 +26,15 @@ if n == rev:
     print("The number is a palindrome.")
 else:
     print("The number is not a palindrome.")
+
+
+"""
+SAMPLE OUTPUT:
+
+Enter a number:101
+The number is a palindrome.
+
+Enter a number:1234
+The number is not a palindrome.
+
+"""

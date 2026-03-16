@@ -26,3 +26,11 @@ while n > 0:
 
 # printing the reverse of the number
 print("The reverse of the number is:", rev)
+
+"""
+SAMPLE OUTPUT :
+
+Enter a number: 1234
+The reverse of the number is: 4321
+
+"""
